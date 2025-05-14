@@ -28,7 +28,7 @@ The system must predict accurate answers to unseen compliance questions for a va
 
 ##  Exploratory Insights
 - 41 test questions match training questions
-- 7 test rows match both question and user_id → ✅ perfect early exits
+- 7 test rows match both question and user_id →  perfect early exits
 - Heavy class imbalance across answer labels
 - Questions are short and templated
 
@@ -47,7 +47,7 @@ The system must predict accurate answers to unseen compliance questions for a va
   - `question_only` for generic classifier
   - `question + [USER] user_id` for personalized classifier
 
-### ⚖ Step 3: Lexical BM25
+###  Step 3: Lexical BM25
 - Retrieves top-k similar questions from training corpus based on token overlap
 
 ###  Step 4: Dense Retrieval (FAISS)
