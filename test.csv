@@ -1,0 +1,117 @@
+question,date,user_id,question_id
+Accounts and services shall only be granted access rights required to accomplish their assigned tasks (least privilege principle).,26/08/21 01:39,610c25ea1b4a094766c59e7b,610d51681b4a094766c59e81
+Initial PINs and passwords shall be changed after first use,24/05/21 15:13,610c25ea1b4a094766c59e80,610d51691b4a094766c59e82
+"Do you have a system to allow password resets? If “Yes”, please explain how the requestor’s identity is verified.",19/08/21 16:20,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e83
+Are at least two of the factors being used verified at the time of login,27/07/21 04:47,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e84
+Is there a process for reviewing access?,22/05/21 16:06,610c25ea1b4a094766c59e7a,610d51691b4a094766c59e85
+Can customer de-provision user accounts and purge all data held against that user account?,27/05/21 03:37,610c25ea1b4a094766c59e7a,610d51691b4a094766c59e86
+"Does the Wireless Security Policy require wireless connections to be secured with WPA2, and encrypted using AES or CCMP?",22/05/21 22:09,610c25ea1b4a094766c59e7c,610d51691b4a094766c59e87
+"How are role based access controls implemented (groups, attributes, security levels, etc.…)?
+
+Note: If answer to the above question is ""No"" no response required.",16/06/21 12:59,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e88
+Who have access to customer data,21/06/21 09:36,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e89
+Do you have a formal process whereby asset owners review users' access rights at regular intervals?\n,10/07/21 17:35,610c25ea1b4a094766c59e80,610d51691b4a094766c59e8a
+Does your service support federation / single sign-on (e.g. SAML) for user provisioning and management? ,22/05/21 11:39,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e8b
+Does application support IP whitelisting for user authentication,28/06/21 11:41,610c25ea1b4a094766c59e80,610d51691b4a094766c59e8c
+"Do you have teleworking policy and supporting security measures to protect and secure information accessed , processed and stored at remote sites ",15/07/21 15:01,610c25ea1b4a094766c59e7a,610d51691b4a094766c59e8d
+Is there a set of rules governing the way IDs are created and assigned?,25/05/21 06:13,610c25ea1b4a094766c59e7b,610d51691b4a094766c59e8e
+Is access to customer's data strictly restricted at the provider,19/07/21 21:05,610c25ea1b4a094766c59e7c,610d51691b4a094766c59e8f
+Do you use a VPN provider for all remote user access?,09/08/21 20:51,610c25ea1b4a094766c59e7b,610d51691b4a094766c59e90
+"Does the application implement a configurable inactivity timeout, where user sessions are invalidated after a period of inactivity?",28/06/21 01:49,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e91
+  How are risks to data and systems introduced by teleworking managed,09/08/21 15:42,610c25ea1b4a094766c59e80,610d51691b4a094766c59e92
+What is your password policy?,26/06/21 13:07,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e93
+Access rights of employees and external personnel to IT systems and applications shall be removed immediately upon termination of employment or contract,11/06/21 05:59,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e94
+The suitability of applying the segregation of duties principle shall be evaluated and applied to relevant business processes when deemed necessary.,17/07/21 07:18,610c25ea1b4a094766c59e80,610d51691b4a094766c59e95
+Can the platform push into Active Directory (AS) and/or Google,19/07/21 20:48,610c25ea1b4a094766c59e80,610d51691b4a094766c59e96
+"Describe how you manage access to the platforms from external localization, and provide the evidence",18/08/21 22:11,610c25ea1b4a094766c59e7a,610d51691b4a094766c59e97
+"Do you provide customers with strong authentication options (e.g password, SMS, digital certs, tokens, biometrics, etc.) ?",14/06/21 16:40,610c25ea1b4a094766c59e80,610d51691b4a094766c59e98
+"How do you prevent Administrator privileges or Power Users abuse (OS, application and database)?",27/08/21 21:31,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e99
+"Please describe the secure logon procedures and management for privileged staff, for example is two-factor authentication required.",20/06/21 18:34,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e9a
+Do you have an access control policy in place that has been developed and implemented based on business and information security requirement,26/05/21 17:56,610c25ea1b4a094766c59e7d,610d51691b4a094766c59e9b
+Do you support 2 factor authentication for customer sign in,16/07/21 18:17,610c25ea1b4a094766c59e7f,610d51691b4a094766c59e9c
+"Are policies and procedures established and mechanisms implemented to ensure wireless security settings are enabled with strong encryption for authentication and transmission, replacing vendor default settings (e.g., encryption keys, passwords, SNMP community strings)?",24/06/21 13:24,610c25ea1b4a094766c59e7c,610d51691b4a094766c59e9d
+Periodic password rotation? Specify frequency,15/08/21 09:21,610c25ea1b4a094766c59e7f,610d51691b4a094766c59e9e
+"Do you support identity federation standards (e.g., SAML, SPML, WS-Federation, etc.) as a means of authenticating/authorizing users",11/07/21 02:34,610c25ea1b4a094766c59e7e,610d51691b4a094766c59e9f
+"Are procedures established to verify the identity of a user prior to providing new, replacement or temporary secret authentication information",30/07/21 15:12,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ea0
+Which groups of staff (individual contractors and full-time) have access to personal and sensitive data handed to you,16/06/21 03:45,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ea1
+Are encrypted communications required for all remote network connections from external networks to networks containing Scoped Systems and Data,25/06/21 01:30,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ea2
+Can you restrict access to specific the IP address,27/08/21 20:51,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ea3
+Access to tenant data must be limited to legitimated Administrators.,21/06/21 00:22,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ea4
+ Do you use open standards to delegate authentication capabilities to your customers?,24/05/21 18:09,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ea5
+Allocation and use of privileged access rights shall be restricted and controlled.,28/06/21 15:18,610c25ea1b4a094766c59e80,610d51691b4a094766c59ea6
+How often are user access rights reviewed?,19/08/21 19:08,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ea7
+How often are user access rights reviewed?,23/06/21 10:58,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ea8
+"Describe your password policy, and provide the evidence",21/06/21 10:14,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ea9
+Are all remote system access performed with encrypted communication ?,20/05/21 14:54,610c25ea1b4a094766c59e7f,610d51691b4a094766c59eaa
+How do you secure privileges account authentification (ex: Multi Factor Authentication mechanisms…)?,27/08/21 20:16,610c25ea1b4a094766c59e7e,610d51691b4a094766c59eab
+Does the application support session timeouts? What is the default timeout value? Is this value configurable by the customer?,19/07/21 22:46,610c25ea1b4a094766c59e80,610d51691b4a094766c59eac
+"Termination of session or activation of a secure, locking screensaver requiring authentication after a period of inactivity not exceeded than 15 minutes?",03/06/21 15:22,610c25ea1b4a094766c59e7a,610d51691b4a094766c59ead
+"Do you support use of, or integration with, existing customer-based Single Sign On (SSO) solutions to your service?",11/06/21 17:49,610c25ea1b4a094766c59e80,610d51691b4a094766c59eae
+Does your authentication system employ lockout settings? Please provide a screenshot of your lockout settings that include the following:.\\\\n- ​Account lockout duration (e.g. 30 minutes)\\\\n- ​Account lockout threshold (e.g. 5 invalid logon attempts)\\\\n- ​Reset account lockout counter after (e.g. 30 minutes),23/08/21 21:09,610c25ea1b4a094766c59e80,610d51691b4a094766c59eaf
+Do you support IP Whitelisting / Can you restrict access to specific the IP address,01/08/21 09:38,610c25ea1b4a094766c59e7e,610d51691b4a094766c59eb0
+How are passwords saved/maintained?,21/06/21 00:32,610c25ea1b4a094766c59e7e,610d51691b4a094766c59eb1
+ Do you require Multi Factor Authentication for remote access?,03/06/21 01:49,610c25ea1b4a094766c59e7b,610d51691b4a094766c59eb2
+How often are access rights reviewed?,14/08/21 10:44,610c25ea1b4a094766c59e80,610d51691b4a094766c59eb3
+IT systems and applications shall force the change of initial PINs and passwords after first use,14/07/21 07:03,610c25ea1b4a094766c59e80,610d51691b4a094766c59eb4
+"Do you use open standards to delegate authentication capabilities to your customers (SAML, SSO etc.)?",08/07/21 18:39,610c25ea1b4a094766c59e7e,610d51691b4a094766c59eb5
+"Describe how you master the protection of the secret information, and provide the evidence",19/07/21 07:13,610c25ea1b4a094766c59e7b,610d51691b4a094766c59eb6
+ Describe how you protect your Wifi environment from unauthorized access and traffic and the type of encryption implemented.,05/07/21 08:38,610c25ea1b4a094766c59e7a,610d51691b4a094766c59eb7
+Do you support multi factor authentication for user sign-in?,03/08/21 10:54,610c25ea1b4a094766c59e7b,610d51691b4a094766c59eb8
+"Are there security and hardening standards for network devices, including Firewalls, Switches, Routers and Wireless Access Points (baseline configuration, patching, passwords, Access control)?",21/07/21 19:16,610c25ea1b4a094766c59e7f,610d51691b4a094766c59eb9
+"Have you developed and implemented a user access provisioning process to assign or revoke access rights for all user types to all systems and services ?
+",28/07/21 19:34,610c25ea1b4a094766c59e7c,610d51691b4a094766c59eba
+Accounts and services shall only be granted those access rights and privileges they need require to accomplish their assigned tasks (least privilege principle).,09/06/21 01:11,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ebb
+"Do you provide customers with MFA authentication options (e.g., two factors, digital certs, tokens, biometrics, etc.) for user access?",17/07/21 21:25,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ebc
+Do you require 2FA for remote access to customer Information hosted on your systems and systems with access to Customer Systems?,14/06/21 00:54,610c25ea1b4a094766c59e80,610d51691b4a094766c59ebd
+"Do you have a formal process to review users' access rights at regular intervals?
+",14/08/21 02:51,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ebe
+Does your organization have a process in place and in use to terminate employees or contract workers access?,18/08/21 00:02,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ebf
+"Do you document how you grant, approve and enforce access restrictions to tenant/customer credentials following the rules of least privilege?",28/06/21 02:24,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ec0
+Do you restrict and control access to your source code application?,27/08/21 18:31,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ec1
+"  IT systems and applications shall force the use of complex passwords created from a combination of at least three of the following four categories: - Uppercase alphabetic characters, - Lowercase alphabetic characters, - Digits, - Special characters",03/08/21 06:12,610c25ea1b4a094766c59e7a,610d51691b4a094766c59ec2
+Does your application support SAML 2.0/federation?,27/05/21 07:03,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ec3
+Do you have controls in place ensuring timely removal of systems access that is no longer required for business purposes?,05/07/21 00:47,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ec4
+How are passwords saved / maintained / protected,02/08/21 04:10,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ec5
+Are at least two of the factors being used verified at the time of login?,14/08/21 04:03,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ec6
+ Is multi-factor authentication required for all remote user access?,20/05/21 13:39,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ec7
+How soon do temporary passwords expire,01/07/21 17:02,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ec8
+How are secret authentication credentials communicated to your users and customer staff (eg initial passwords)? [5.3],22/05/21 14:31,610c25ea1b4a094766c59e7b,610d51691b4a094766c59ec9
+Describe and provide evidence of the controls that are in place during the employee exit process (access revoked and passwords for shared accounts changed etc.).,01/08/21 15:08,610c25ea1b4a094766c59e7b,610d51691b4a094766c59eca
+Describe your password policy.,19/08/21 03:11,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ecb
+"Is there a policy and/or procedure to demonstrate termination/disablement of all users within 24 hours in systems where ASAPP data is stored, processed, or transmitted? Please describe.",16/07/21 14:56,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ecc
+Do you support 2FA for customer sign in,25/07/21 10:51,610c25ea1b4a094766c59e80,610d51691b4a094766c59ecd
+Do all employees and contractors use invidually assigned accounts?,07/08/21 23:29,610c25ea1b4a094766c59e7b,610d51691b4a094766c59ece
+ Is multi-factor-authentication required for all remote user access?,21/06/21 09:13,610c25ea1b4a094766c59e7b,610d51691b4a094766c59ecf
+Does your company require passwords to be changed every 6 months? ,15/08/21 11:47,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ed0
+  What is your internal Wireless (Wi-Fi) access policy,05/07/21 05:16,610c25ea1b4a094766c59e7b,610d51691b4a094766c59ed1
+Are employee accounts disabled immediately once their period of employment ends?,04/08/21 23:23,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ed2
+Does the customer credentials are stored encrypted or slated?,16/06/21 16:48,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ed3
+Does your application offer an API Access / endpoint?,30/05/21 15:14,610c25ea1b4a094766c59e7d,610d51691b4a094766c59ed4
+"How are logins performed to your service? Do you support federated identity? (e.g., SAM",23/06/21 06:20,610c25ea1b4a094766c59e80,610d51691b4a094766c59ed5
+Do you support two-factor authentication for customer sign in?,05/07/21 11:30,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ed6
+Do you enforce the use of unique password and forbid reuse of password,30/06/21 03:17,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ed7
+Does the application support integration with identity management systems (e.g Okta)?,24/05/21 06:32,610c25ea1b4a094766c59e7a,610d51691b4a094766c59ed8
+What is your password policy,28/05/21 13:28,610c25ea1b4a094766c59e80,610d51691b4a094766c59ed9
+"Do you have a remote access policy and supporting security measures to protect and secure information accessed , processed and stored at remote sites?",17/07/21 16:20,610c25ea1b4a094766c59e7a,610d51691b4a094766c59eda
+"Are controls in place to prevent an unlimited number of invalid login attempts?  If “Yes”, please provide detail.",21/06/21 20:29,610c25ea1b4a094766c59e7f,610d51691b4a094766c59edb
+"
+                6.2.1.
+                Does your SaaS solution have ability to authenticate Adobe employees with SAML 2.0? If NOT, is it in the pipeline?
+              ",02/08/21 19:03,610c25ea1b4a094766c59e7a,610d51691b4a094766c59edc
+Do you require 2FA for remote access to customer Information hosted on your systems and systems with access to Customer Systems?,08/08/21 09:47,610c25ea1b4a094766c59e7b,610d51691b4a094766c59edd
+Are your employees accessing data following on Need to Know basis?,10/06/21 06:31,610c25ea1b4a094766c59e7a,610d51691b4a094766c59ede
+"PINs and passwords shall contain a minimum number of characters, and a minimum number of different character types",21/05/21 11:28,610c25ea1b4a094766c59e7d,610d51691b4a094766c59edf
+"Do you support identity federation standards (e.g., SAML, SSO integration)?",10/06/21 20:00,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ee0
+Do you have a formal management process controlling the allocation of secret authentication informatio,27/05/21 03:16,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ee1
+Do you automatically block accounts after 5 unsuccessful login attempts,25/08/21 04:07,610c25ea1b4a094766c59e80,610d51691b4a094766c59ee2
+Have you developed and implemented a user registration process and de-registration process to enable the assignment of access rights?,06/06/21 16:16,610c25ea1b4a094766c59e7e,610d51691b4a094766c59ee3
+"Indicate how you manage the 'Identity' and provisioning in your user access process, detail when it is related to third parties, and provide the evidence",15/06/21 09:55,610c25ea1b4a094766c59e7a,610d51691b4a094766c59ee4
+Describe the Access management process in place at the provider's end pointing out how you ensure timely removal of accesses that are no longer required and how you control the adequacy of the privileges to the job role. Also describe the revalidation processes and the frequency of its execution.,18/06/21 18:33,610c25ea1b4a094766c59e7b,610d51691b4a094766c59ee5
+Are controls in place to restrict access to your application code to authorized personnel only?,07/08/21 13:17,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ee6
+Do all users have unique user ID's?,17/06/21 22:55,610c25ea1b4a094766c59e7c,610d51691b4a094766c59ee7
+ Do you have Network Access Control Policy and tools to prevent any rogue network devices from accessing your LAN and WIFI networks ?,24/07/21 10:58,610c25ea1b4a094766c59e7f,610d51691b4a094766c59ee8
+Do you require Multi Factor Authentication for remote access?,11/06/21 00:56,610c25ea1b4a094766c59e80,610d51691b4a094766c59ee9
+Do you have controls in place ensuring timely removal of systems access when they are no longer required for business purposes?	,07/08/21 17:21,610c25ea1b4a094766c59e7f,610d51691b4a094766c59eea
+Are controls in place to prevent unauthorized access to your source code?,01/08/21 03:58,610c25ea1b4a094766c59e7c,610d51691b4a094766c59eeb
+Please describe how your system supports multi-factor authentication for our users,03/08/21 16:56,610c25ea1b4a094766c59e7d,610d51691b4a094766c59eec
+"10.16 Are complex passwords (mix of upper case letters, lower case letters, numbers, and special characters) required on systems transmitting, processing, or storing Scoped Data? (Single selection allowed)",16/06/21 23:26,610c25ea1b4a094766c59e7f,610d51691b4a094766c59eed
