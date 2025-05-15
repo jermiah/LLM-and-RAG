@@ -6,18 +6,16 @@ This repository showcases intelligent NLP solutions that combine **Large Languag
 
 ##  Repository Structure
 
+```plaintext
 LLMs-RAG-Projects/
 ├── README.md                        # Project overview and documentation
-├── skypher_qa_pipeline/            #  Cybersecurity QA System (Skypher)
-│   ├── skypher.ipynb               # End-to-end QA pipeline notebook
+├── QA_Intelligent_System/            #  Cybersecurity QA System 
+│   ├── QA_Intelligent_System.ipynb               # End-to-end QA pipeline notebook
 │   ├── training.json               # Cleaned and structured training data
 │   ├── test.csv                    # Test questions with user_id
 │   ├── predictions.csv             # Final LLM-generated answers
-│   ├── models/                     # Saved classifiers and indexes
-│   └── cleaned_data/              # Intermediate files and preprocessing outputs
 └── other_projects/                 #  Placeholder for future RAG/LLM projects
-
-
+```
 ---
 
 ##  Projects
@@ -45,7 +43,7 @@ A production-ready hybrid QA pipeline for security compliance automation.
 - Remaining passed through classification, retrieval, reranking, and LLM
 - Human and reranker-based validation ensured factual, concise output
 
- [Read full project in `skypher_qa_pipeline/`](./skypher_qa_pipeline/)
+ [Read full project in `QA Intelligent System`](./skypher_qa_pipeline/)
 
 ---
 
