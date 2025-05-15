@@ -43,7 +43,7 @@ A production-ready hybrid QA pipeline for security compliance automation.
 - Remaining passed through classification, retrieval, reranking, and LLM
 - Human and reranker-based validation ensured factual, concise output
 
- Read full project in [QA Intelligent System](./QA_Intelligent_System/)
+ Read full project in [QA Intelligent System](./QA_Intelligent_System/Project_details.md)
 
 ---
 
@@ -54,14 +54,6 @@ A production-ready hybrid QA pipeline for security compliance automation.
 - **Retrieval**: FAISS (dense), BM25 (rank_bm25)
 - **Modeling**: Scikit-learn (Logistic Regression)
 - **Libraries**: pandas, numpy, sentence-transformers, transformers
-
----
-
-##  Future Roadmap
-- [ ] Add synthetic question generator using prompt-based augmentation
-- [ ] Plug in OpenAI/Claude for reranker eval (as judge LLM)
-- [ ] Introduce feedback loop for fine-tuning top-k reranking threshold
-- [ ] Add fastAPI backend for real-time deployment
 
 ---
 
