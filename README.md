@@ -43,7 +43,7 @@ A production-ready hybrid QA pipeline for security compliance automation.
 - Remaining passed through classification, retrieval, reranking, and LLM
 - Human and reranker-based validation ensured factual, concise output
 
- [Read full project in `QA Intelligent System`](./QA_Intelligent_System/)
+ Read full project in [QA Intelligent System](./QA_Intelligent_System/)
 
 ---
 
