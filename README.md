@@ -9,12 +9,12 @@ This repository showcases intelligent NLP solutions that combine **Large Languag
 ```plaintext
 LLMs-RAG-Projects/
 ├── README.md                        # Project overview and documentation
-├── QA_Intelligent_System/            #  Cybersecurity QA System 
-│   ├── QA_Intelligent_System.ipynb               # End-to-end QA pipeline notebook
-│   ├── training.json               # Cleaned and structured training data
-│   ├── test.csv                    # Test questions with user_id
-│   ├── predictions.csv             # Final LLM-generated answers
-└── other_projects/                 #  Placeholder for future RAG/LLM projects
+├── QA_Intelligent_System/           #  Cybersecurity QA System 
+│   ├── QA_Intelligent_System.ipynb  # End-to-end QA pipeline notebook
+│   ├── training.json                # Cleaned and structured training data
+│   ├── test.csv                     # Test questions with user_id
+│   ├── predictions.csv              # Final LLM-generated answers
+└── other_projects/                  #  Placeholder for future RAG/LLM projects
 ```
 ---
 
